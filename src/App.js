@@ -21,15 +21,34 @@ const menuItems = [
     submenus: [
       {
         name: "Hướng dẫn sử dụng ứng dụng",
-        items: ["Detail 1", "Detail 2"],
+        items: [
+          "Hướng dẫn cài đặt ứng dụng",
+          "Hướng dẫn sử dụng ứng dụng - Tạo tài khoản TECD",
+          "Hướng dẫn sử dụng ứng dụng - Cấp quyền truy cập cho TECD",
+          "Hướng dẫn sử dụng ứng dụng - Cài đặt thông tin tài khoản",
+          "Hướng dẫn sử dụng ứng dụng - Tìm kiếm Phiên kết nối",
+          "Hướng dẫn sử dụng ứng dụng - Tham gia phiên kết nối",
+          "Hướng dẫn sắp xếp thiết bị khi tham gia phiên kết nối",
+          "Hướng dẫn an toàn và sức khỏe",
+          "Các kênh thông tin chính",
+        ],
       },
       {
         name: "Câu hỏi thường gặp về giải pháp",
-        items: ["Detail 3", "Detail 4"],
+        items: [
+          "Vì sao TECD chọn xây dựng ứng dụng này trên nền tảng Blockchain?",
+          "Có lưu ý nào đối với các Bác cao niên khi tham gia không?",
+          "Có phương pháp nào hỗ trợ các Bác tỉnh táo nhưng không thông thạo các thiết bị điện tử không?",
+          "Thời gian 1 phiên kết nối là bao lâu?",
+          "Bác chưa có tài khoản Email để Đăng ký và đăng nhập tài khoản TECD thì phải làm như thế nào?",
+        ],
       },
       {
         name: "Câu hỏi thường gặp về thanh toán",
-        items: ["Detail 5", "Detail 6"],
+        items: [
+          "Vì sao TECD chọn xây dựng ứng dụng này trên nền tảng Blockchain và dùng ví MetaMask để chi trả thay vì trả thông thường?",
+          "Cách thức thanh toán bằng tiền điện tử như thế nào?",
+        ],
       },
     ],
   },
@@ -38,15 +57,34 @@ const menuItems = [
     submenus: [
       {
         name: "Hướng dẫn sử dụng ứng dụng",
-        items: ["Detail 1", "Detail 2"],
+        items: [
+          "Hướng dẫn cài đặt ứng dụng",
+          "Trang thông tin giới thiệu Phiên kết nối: Soạn nội dung và Tiêu chí xây dựng nội dung",
+          "Hướng dẫn sử dụng ứng dụng - Đăng ký tài khoản TECD",
+          "Hướng dẫn sử dụng ứng dụng - Cấp quyền truy cập TECD",
+          "Hướng dẫn sử dụng ứng dụng - Đăng và chỉnh sửa phiên kết nối",
+          "Hướng dẫn sử dụng ứng dụng - Tham gia phiên kết nối",
+          "Hướng dẫn sắp đặt và thiết lập thiết bị khi tham gia phiên kết nối",
+          "Hướng dẫn an toàn",
+          "Các kênh thông tin chính",
+        ],
       },
       {
         name: "Câu hỏi thường gặp về giải pháp",
-        items: ["Detail 3", "Detail 4"],
+        items: [
+          "Vì sao TECD chọn xây dựng ứng dụng này trên nền tảng Blockchain?",
+          "Các bạn có thể giải thích rõ hơn cho mình về nhóm đối tượng người cao tuổi tham gia chương trình không ạ? (về chân dung nhân khẩu của họ, mục tiêu họ học là gì,...)",
+          "Thời gian một Phiên kết nối là bao lâu?",
+          "Hình thức tham gia thế nào?",
+        ],
       },
       {
         name: "Câu hỏi thường gặp về thanh toán",
-        items: ["Detail 5", "Detail 6"],
+        items: [
+          "Vì sao TECD chọn xây dựng ứng dụng này trên nền tảng Blockchain và dùng ví MetaMask để chi trả thay vì trả thông thường?",
+          "Cách nhận thanh toán bằng tiền điện tử?",
+          "Tiêu chí để nhận thù lao",
+        ],
       },
     ],
   },
